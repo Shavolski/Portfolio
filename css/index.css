@@ -69,7 +69,7 @@ strong{
 }
 #thika{
   background-size: 100%;
-  background-image: ("images/samuel-ferrara-412633.jpg");
+  background-image:url("./../images/samuel-ferrara-412633.jpg");
 }
 #snake{
   background-size: 100%;
