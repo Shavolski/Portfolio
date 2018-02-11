@@ -69,11 +69,11 @@ strong{
 }
 #thika{
   background-size: 100%;
-  background-image: url("/home/one/Documents/Portfolio/images/samuel-ferrara-412633.jpg");
+  background-image: ("images/samuel-ferrara-412633.jpg");
 }
 #snake{
   background-size: 100%;
-  background-image: url("/home/one/Documents/Portfolio/images/desmond-simon-412497.jpg");
+  background-image: image("images/desmond-simon-412497.jpg");
 }
 #anime{
   background-size: 100%;
