@@ -73,19 +73,19 @@ strong{
 }
 #snake{
   background-size: 100%;
-  background-image: url("./../images/desmond-simon-412497.jpg");
+  background-image:url("./../images/desmond-simon-412497.jpg");
 }
 #anime{
   background-size: 100%;
-  background-image: url("./../images/marco-bonomo-89638.jpg");
+  background-image:url("./../images/marco-bonomo-89638.jpg");
 }
 #bleach{
   background-size: 100%;
-  background-image: url("./../images/image1.jpg");
+  background-image:url("./../images/image1.jpg");
 }
 #wowa{
   background-size: 100%;
-  background-image: url("./../images/forrest-cavale-353.jpg");
+  background-image:url("./../images/forrest-cavale-353.jpg");
 }
 #jamhuri{
 background-size: cover;
@@ -93,9 +93,9 @@ min-height: 150px;
 }
 #me{
   background-size: 40%;
-  background-image: url("./../images/troll.jpg");
+  background-image:url("./../images/troll.jpg");
 }
 #me2{
   background-size: 40%;
-  background-image: url("./../IMG_20170625_070040.jpg")
+  background-image:url("./../IMG_20170625_070040.jpg")
 }
