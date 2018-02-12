@@ -91,6 +91,10 @@ strong{
 background-size: cover;
 min-height: 150px;
 }
+#me3{
+  background-size: 40%;
+  background-image:url("./../images/download.jpg");
+}
 #me{
   background-size: 40%;
   background-image:url("./../images/troll.jpg");
